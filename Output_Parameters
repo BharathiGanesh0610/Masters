@@ -1,0 +1,24 @@
+The name of the file is: Output_Parameters
+Input is from          : Input_Parameters
+nx = 256
+ny = 1024
+delta_x = 0.500000
+delta_t = 0.001250
+end_time = 250.000000
+Relaxation coefficient = 0.500000
+Mobility = 1.000000
+A = 7.500000
+B = 7.500000
+P = 10.000000
+Omega = 16.500000
+C_alpha = 0.250000
+C_beta = 0.750000
+Undercooling = 3.000000
+K_c = 1.000000
+K_psi = 1.000000
+Equillibrium Liquid composition = 0.500000
+checking time count = 4000
+Intial Profile Flag = 1
+Layer thickness = 30
+Lamella width = 16
+Tolerance = 1.000000e-07
